@@ -8,7 +8,7 @@ This a bot that is meant to facilitate verification of participants in shsHacks.
 
 # Reuse/Licensing
 
-Use it for whatever, I don't care. If you figure out how this works, then you are probably smart enough to do it better.
+Use it for whatever
 
 # Important Note
 
